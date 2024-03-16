@@ -47,4 +47,23 @@
 
 - **Disparate Impact:** Unintentional discrimination that occurs when a facially neutral policy or practice disadvantages a protected class (e.g., race, gender, age) to a greater extent than another group.
 - **EEOC Four-Fifths Rule:** If a selection rate for a protected class is less than 80% of the highest selection rate, it suggests potential bias.
-- 
+
+# Mozilla v FCC
+
+## Petitioners Brief
+
+- **1980 Computer II Order:** FCC declared that Title II of the Act applied to carriers’ provision of “basic” service, defined as “a pure transmission capability” that included “analog or digital transmission of voice, data, video, etc., information.” 
+- **Telecommunications Act of 1996:** The Telecommunications Act of 1996 declared “a telecommunications carrier shall be treated as a common carrier . . . to the extent it is engaged in providing telecommunications services . . . .”
+- **Telecommunications Carrier:** provider of telecommunications services, which is “an offering of telecommunications for a fee directly to the public. . . .”
+	- **Telecommunications:** The transmission, between or among points specified by the user, of information of the user’s choosing, without change in the form or content of the information as sent and received.
+- **Information Services:** Offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications . . . .
+
+# Autonomous Weapon Systems
+
+- Roughly categorized as: 
+	- **Inert:** objects requiring contemporaneous operation by a human being to be lethal
+	- **Automated:** Automated weapon systems may be deployed long before they engage an unknown and unpredicted target, but they act in a predictable manner. 
+		- A dumb landmine or tripwire sentry gun acts independently, but it does not “select” a target; rather, it responds predictably to a preset trigger
+	- **Semi-autonomous:** has autonomous capabilities in functions relevant to target selection and engagement—but it cannot both select and engage targets independently.
+		- Most “fire and forget” missiles and unmanned drones in operation today are semi- autonomous, as a human operator must take some affirmative action for a target to be selected or for a selected target to be engaged.
+	- **Autonomous:** an autonomous weapon system is capable of independently selecting and engaging targets based on conclusions derived from gathered information and preprogramed constraints.
