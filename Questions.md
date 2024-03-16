@@ -45,3 +45,27 @@ FCC is **AGAINST** net neutrality.
 | **Difference**         | AWS's capacity for independent and unpredictable action complicates their legal review and accountability.                        | Unlike humans, AWS cannot be traditionally trained or held accountable for their actions.                                                                    | The legal and societal motivations for regulating child soldiers (to protect children) do not apply to AWS.                       | The rationale for regulating animal combatants does not directly apply to AWS, and there's almost no existing law specifically for animal combatants. |
 | **Accountability Gap** | N/A                                                                                                                               | AWS actions that result in violations of international humanitarian law highlight an accountability gap not addressed by the law governing human combatants. | Similar accountability issues as with human combatants; existing frameworks do not accommodate autonomous systems' liability.     | Similar to child soldiers, the unique challenges of AWS accountability are not resolved within the current legal frameworks.                          |
 | **Regulation Needs**   | Existing weapons law does not fully address AWS's unique challenges, such as in-field learning and ensuring discriminate use.     | Current combatant law fails to provide guidelines on "training" AWS or addressing the accountability gap for their autonomous actions.                       | Child soldier regulations highlight the need for tailored AWS laws that consider their non-human nature and operational autonomy. | The lack of specific law for animal combatants underscores the necessity for new regulations specifically designed for AWS.                           |
+
+# Trolley and Pinto Problem
+
+> What was the Pinto Problem? 
+
+This problem is exemplified by the controversy surrounding the Ford Pinto in the 1970s, where Ford Motor Company faced criticism for its decision-making process regarding the safety of the vehicle's fuel tank design. Despite being aware of the hazards related to the design, Ford adhered to the original design based on a cost-benefit analysis that compared the costs of making safety improvements against the benefits of preventing fuel tank fires. This analysis calculated the monetary value of human lives and injuries in a way that suggested a willingness to accept human casualties in favor of cost savings.
+
+> How is the Pinto problem similar/different to the Boeing 737 MAX case?
+
+- **Technical and Contextual Nature of Failures:**
+    - The Pinto problem was related to a specific design flaw (fuel tank design) that made the car susceptible to catching fire in rear-end collisions.
+    - The 737 MAX issue involved a complex flight control system (MCAS) designed to enhance the aircraft's performance, which malfunctioned due to sensor errors and lack of adequate pilot training and information.
+
+- **Regulatory and Industry Environment:**
+    - The automotive industry regulations and standards at the time of the Pinto were less comprehensive in addressing safety issues compared to the highly regulated aviation sector during the 737 MAX's development.
+    - The Boeing 737 MAX case also involved criticisms of the Federal Aviation Administration (FAA) for its certification process and alleged closeness with Boeing, which was not a significant aspect of the Pinto case.
+
+- **Complexity of Technology and Information Disclosure:**
+    - The Boeing 737 MAX's problems were partially attributed to the complexity of modern aviation systems and Boeing's failure to disclose critical information about the MCAS system to pilots and airlines.
+    - The Pinto's design issue, by contrast, was a more straightforward safety risk that did not involve the complexities of software or system-wide integration failures.
+
+- **Global Impact and Scale:**
+    - The Boeing 737 MAX incidents had a global impact, grounding the worldwide fleet and affecting international air travel, whereas the Pinto issue primarily affected consumers in the United States.
+    - The scale of the 737 MAX crisis involved multiple international investigations and a broader scrutiny of global aviation safety practices, while the Pinto controversy was more contained within the automotive industry and national regulatory responses.
