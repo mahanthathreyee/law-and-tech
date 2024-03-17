@@ -196,6 +196,14 @@ Unintentional discrimination that occurs when a facially neutral policy or pract
 - **Opacity in Decision-Making:** The use of proxies can obscure the true basis for decisions, making it difficult to identify, understand, and address discriminatory practices.
 - **Challenge in Identifying Proxies:** Determining what constitutes a proxy can be complex, as many variables could potentially serve as indirect indicators of protected characteristics.
 
+> Why doesn't Title VII apply for data mining cases?
+
+- **Hard to Prove:** Title VII requires intentional discrimination proof, but data mining can perpetuate bias unintentionally.
+	- **Biased Predictions:** Data mining finds correlations that might reflect historical bias, making them difficult to challenge as legitimate job predictors. 
+- **Business Necessity:** Discriminatory outcomes can be justified if data mining shows they predict job performance. Proving data correlations reflect bias, not job fit, is difficult.
+- **Complex Solutions:** Fixing bias involves technical adjustments and legal challenges in proving discrimination and proposing fair solutions.
+- **Competing Goals:** Balancing antidiscrimination rules (protected characteristics) with addressing societal inequalities creates legal and political hurdles.
+
 # Punishing Artificial Intelligence
 
 > What are features of AI?
@@ -460,8 +468,11 @@ The best way to protect free speech values is not to apply doctrines developed f
 
 > What are the responsibilities of the different types of private infrastructure?
 
-- **Basic Internet Services**: Include hosting, telecommunications, domain name, and caching/defense services. They should adopt nondiscriminatory policies regarding content and viewpoint, supporting principles like network neutrality.
-    
-- **Payment Services**: Function as public accommodations and should be open to all, except for illegal activities. Discrimination based on content of lawful online publications should be avoided.
-    
-- **Content Curators (Platforms and Search Engines)**: Regularly make content-based decisions; the specifics of their responsibilities might differ due to their direct role in content curation.
+Different types of private infrastructure have varying responsibilities in the digital age: 
+- Social media companies govern online speech and community norms
+- Broadband providers manage internet access and data flow 
+- Search engines curate information access. 
+- Each type plays a crucial role in regulating digital spaces:
+	- Social media setting community standards, 
+	- Broadband providers ensuring connectivity and network management
+	- Search engines influencing information visibility and public discourse.
