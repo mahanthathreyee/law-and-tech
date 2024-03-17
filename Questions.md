@@ -1,8 +1,9 @@
-# Questions
 
-## Mozilla v FCC
+```table-of-contents
+```
+# Mozilla v FCC
 
-### Petitioner's Brief
+## Petitioner's Brief
 
 > Are the Petitioners for or against net neutrality?
 
@@ -69,3 +70,49 @@ This problem is exemplified by the controversy surrounding the Ford Pinto in the
 - **Global Impact and Scale:**
     - The Boeing 737 MAX incidents had a global impact, grounding the worldwide fleet and affecting international air travel, whereas the Pinto issue primarily affected consumers in the United States.
     - The scale of the 737 MAX crisis involved multiple international investigations and a broader scrutiny of global aviation safety practices, while the Pinto controversy was more contained within the automotive industry and national regulatory responses.
+
+# Free Speech in an Algorithmic Society
+
+> Why is Professor Balkin worried about freedom of speech in the current era?
+
+Professor Balkin is concerned about freedom of speech due to the pervasive influence of Big Data and new forms of speech regulation. 
+
+He sees Big Data as a power structure where personal information becomes a commodity, likened to "Soylent Green," leading to surveillance, control, discrimination, and manipulation by both governments and private companies. 
+
+Additionally, the evolution from traditional to new forms of speech regulation, exemplified by the right to be forgotten and the spread of fake news, challenges traditional free speech protections, raising issues around censorship, privacy, and misinformation in the digital age.
+
+> Who does Professor Balkin believe must play a role in preserving freedom of speech?
+
+The best solution would be for large international infrastructure owners and social media platforms to change their self-conception. 
+
+Ideally, they would come to understand themselves as a new kind of media company, with obligations to protect the global public good of a free Internet, and to preserve and extend the emerging global system of freedom of expression. 
+
+Defenders of democratic values should work hard to emphasize the social responsibilities of digital infrastructure companies and help them both to understand and to accept their constitutive role in the emerging global public sphere.
+
+> What are information fiduciaries? What is their role?
+
+Information fiduciaries are entities that have a duty to protect the personal information of individuals they interact with, similar to the fiduciary responsibilities of doctors or lawyers to their clients. 
+
+They must act in the best interests of those whose data they hold, ensuring confidentiality and preventing misuse. This concept suggests that companies collecting and handling significant amounts of personal data should be regulated to enforce ethical standards of trust, confidentiality, and care towards individuals' data.
+
+> Why can't digital information fiduciaries should have fewer obligations than traditional professional fiduciaries according to the author?
+
+1. Their business significantly involves monetizing personal data, unlike traditional fiduciaries.
+2. Digital platforms encourage public expression and content creation, affecting how user data is handled and expected to be protected.
+3. The level of trust and care expected from digital platforms by users is different; users do not expect digital platforms to protect their interests to the same extent as traditional fiduciaries like doctors or lawyers.
+
+> What is trolling and doxing?
+
+**Trolling:** Refers to the act of deliberately posting provocative or offensive content online to elicit a strong emotional response or disrupt conversations.
+
+**Doxing:** Researching and publicly sharing private or identifying information about an individual without their consent, often to harass, intimidate, or shame them.
+
+> How does Professor Balkin want potentially harmful online phenomena, like trolling and doxing, to be addressed, and by whom?
+
+TBD
+
+> What is an "algorithmic nuisance" and how should this phenomenon be addressed?
+
+**Algorithmic nuisance:** Refers to the negative impact of companies using big data and algorithms to make judgments that affect people's identities, traits, associations, opportunities, and vulnerabilities. It captures the idea of companies externalizing the socially unjustified costs of their decision-making onto individuals. 
+
+To address this phenomenon, it's suggested that there should be regulations aimed at the outputs of algorithmic decision-making, such as discrimination and manipulation, ensuring companies internalize the costs they impose on society and individuals through their practices.
