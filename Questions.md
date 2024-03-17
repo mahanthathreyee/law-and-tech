@@ -1,4 +1,3 @@
-
 ```table-of-contents
 ```
 # Mozilla v FCC
@@ -316,6 +315,44 @@ It is concerned with the unintended consequences or collateral damage or potenti
 - Creating an Insurance Scheme: Develop a fund through taxes on AI use to compensate victims of AI crimes, similar to vaccine injury compensation programs.
 
 
+
+
+
+
+
+
+
+# The Boeing 737 MAX
+
+> What are lead to the failure of Boeing 737 MAX
+
+- Boeing faced intense competition from Airbus, prompting a rush to update the 737 instead of designing a new model, affecting design and safety decisions.
+- Boeing introduced the MCAS system to address aerodynamic changes due to larger engines but did not fully disclose its functionality or implications to pilots or the FAA.
+- The MCAS systems did not go through the necessary FAA's certification process
+- The 737 MAX was labelled as update over the existing 737 NG, thereby avoiding the re-certification process
+
+> What were the main design choices that led to the crashes?
+
+1. The analysis underestimated the power of MCAS to move the plane’s horizontal tail and thus how difficult it would be for pilots to maintain control of the aircraft
+2. It did not account for the system deploying multiple times
+3. It underestimated the risk level if MCAS failed, thus permitting a design feature—the single AOA sensor input to MCAS—that did not have built-in redundancy
+4. Not provided sufficient acknowledgement or training for the pilots for the MCAS system
+
+> What is the relationship between Boeing and the FAA? How did this relationship affect what happened leading up to the crashes?
+
+- Boeing introduced the MCAS system to address aerodynamic changes due to larger engines but did not fully disclose its functionality or implications to pilots or the FAA.
+- The FAA's certification process relied heavily on Boeing's assessments, with insufficient independent verification of the MCAS system's safety.
+- A close relationship between Boeing and the FAA led to a certification process that may have prioritized expedience over rigorous safety evaluation.
+
+> What were the ways discussed in class and in the article to address these issues moving forward?
+
+- Enhance engineers' influence to prioritize safety over profit.
+- Focus on moral courage in engineering education and professional development.
+	- Support whistleblowers to come forward
+- Ensure manufacturers provide full transparency on critical system functionalities.
+- Increase regulatory oversight over manufacturers, reducing self-certification.
+- Implement clearer accountability and decision-making processes in complex projects.
+- Create a formal ethics program and capable ethical leadership.
 
 
 
