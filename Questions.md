@@ -197,3 +197,127 @@ Unintentional discrimination that occurs when a facially neutral policy or pract
 - **Opacity in Decision-Making:** The use of proxies can obscure the true basis for decisions, making it difficult to identify, understand, and address discriminatory practices.
 - **Challenge in Identifying Proxies:** Determining what constitutes a proxy can be complex, as many variables could potentially serve as indirect indicators of protected characteristics.
 
+# Punishing Artificial Intelligence
+
+> What are features of AI?
+
+1. AI has the potential to act unpredictably.
+2. AI has the potential to act unexplainably. It may be possible to determine what an AI has done, but not how or why it acted as it did.
+3. AI may act autonomously. For our purposes, that is to say an AI may cause harm without being directly controlled by an individual.
+4. While AI can already outperform people in spectacular fashion in some domains, like board games, in other domains AI is not competitive with toddlers. That is because all AI is designed to perform “narrow” or “specific” tasks.
+
+> Why is reducibility important in AI crimes?
+
+Reducibility is also critical, because if an AI engages in an act that would be criminal for a person and the act is reducible, then there typically will be a person that could be criminally liable.
+
+If an AI act is not effectively reducible, there may be no other party that is aptly punished, in which case intuitively criminal activity could occur without the possibility of punishment.
+
+> What are few scenarios where AI crimes are not reducible?
+
+- **Enforcement Problems:** Identifying the individual responsible for an AI-related crime can be difficult if the perpetrator remains anonymous, such as the creator of a computer virus.
+    
+- **Practical Irreducibility:** Legal attempts to attribute AI misconduct to specific individuals may be impractical due to the multitude of contributors, the challenge in pinpointing their roles, or their actions being remote in time or location.
+    
+- **Legal Irreducibility:** Legally, attributing AI crimes to individual actions might not always be advisable. Minor negligent acts by multiple people could cumulatively cause significant harm through AI, but prosecuting these actions might not align with sound criminal policy.
+
+> What is specific and general deterrence?
+
+Specific deterrence is the process whereby punishing a specific individual discourages that person from committing more crime in the future.
+
+General deterrence occurs when punishing an offender discourages other would-be offenders from committing crimes.
+
+> What is the desert constraint?
+
+The desert constraint is the claim that an offender may not, in justice, be punished in excess of his or her desert. 
+
+The main effect of the desert constraint is to rule out punishments that go beyond what is proportionate to one’s culpability. Thus, it would be wrong to execute someone for jaywalking even if doing so would ultimately save lives by reducing illegal and dangerous pedestrian crossings.
+
+> What is an example of an affirmative case for punishing AI?
+
+- Direct punishment of AI could provide unrestricted general deterrence as against the developers, owners, or users of AI and provide incentives for them to avoid creating AIs that cause especially egregious types of harm without excuse or justification.
+- Punishment of AI may also have expressive benefits. Expressing condemnation of the harms suffered by the victims of an AI could provide these victims with a sense of satisfaction and vindication.
+
+> What is an issue of punishing AI as a means of expressing condemnation?
+
+Punishing AI could send the message that AI is itself an actor on par with a human being, which is responsible and can be held accountable through the criminal justice system. Such a message is concerning, as it could entrench the view that AI has rights to certain kinds of benefits, protections and dignities that could restrict valuable human activities.
+
+> What is a retributive limitation of this case?
+
+There are 3 limitations:
+
+**Eligibility challenge**
+
+The Eligibility Challenge is simple to state: AI, like other inanimate objects, is not the right kind of thing to be punished. AI lacks mental states and thus cannot fulfill the mental state (mens rea) elements built into most criminal offenses. Therefore, convicting AI of crimes requiring a mens rea like intent, knowledge or recklessness would violate the principle of legality.
+
+There are 3 ways to address this challenge:
+1. **Respondent Superior:** Suggests that culpable mental states of human actors (developers, owners) associated with an AI could be imputed to the AI under certain conditions, making the AI liable for crimes.
+	- Doesn't work for hard AI crimes where actors behind the AI can easily be reduced or identified
+2. **Strict Liability:** Establish a range of new strict liability offenses specifically for AI crimes—i.e., offenses that an AI could commit even in the absence of any mens rea like intent to cause harm, knowledge of an inculpatory fact, reckless disregard of a risk or negligent unawareness of a risk.
+	- Can be unfair to punish without someone considering their state of mind. That is, punishing an AI or it's creator through strict liability does not differentiate if they accidentally or deliberately committed the offenses.
+3. **A Framework for Direct Mens Rea Analysis for AI:** A framework for directly defining mens rea terms for AI—analogous to those possessed by natural persons—could be crafted.
+	- The complexity and variability of AI makes it difficult to establish a consistent standard for what constitutes intent or recklessness within AI systems.
+	- Determining the extent to which AI's actions can be considered independent of human influence is a significant challenge.
+	- 1Implementing a direct mens rea analysis for AI would require new types of evidence and methods of interpretation to assess the "mental state" of AI systems. This necessitates expertise in both technology and law, which might not be readily available in all legal contexts.
+
+**Reducibility Challenge**
+
+One might object that there is never a genuine need to punish AI because any time an AI seems criminally culpable in its own right, this culpability can always be reduced to that of nearby human actors—such as developers, owners, and users. The law could target the relevant culpable human actors instead.
+
+- Issues
+	- AI actions should be traced back to human misconduct, does not necessarily prevent punishing AI. 
+	- It would be impractical and overly invasive for law enforcement to dig into every organization's internal activities for minor faults whenever AI causes harm. 
+
+**Spillover Objection**
+
+It is concerned with the unintended consequences or collateral damage or potential for harm to innocent parties involved with the AI, such as developers, users, or owners, who could be negatively impacted by the AI's punishment.
+
+> What are the feasible alternatives to punishing AI?
+
+**Do nothing (maintain the status quo)**
+
+- In case of AI crimes are reducible, there are legal actions that can be taken on the actor(s). 
+	- Such hacker using AI to steal a bank can be shown to have intent and be convicted
+	- If a company didn't foresee that AI system could cause harm
+		- if the developers or users of AI foresaw a substantial and unjustified risk that an AI will cause the death of a person these human actors could be convicted of reckless homicide.
+		- If such a risk was merely reasonably foreseeable (but not foreseen), then lower forms of homicide liability would be available.
+	- In case of hard scenarios, where reducible harms by AI that are not foreseeable
+		- For example hacker trying to steal the bank using AI inadvertently shuts down the electric grid
+		- The cases come under constructive liability crimes where there is base crime which requires mens rea but further crimes where caused without mens rea.
+		- If constructive liability was used in the case of hacker bringing the electric grid down, then will be criminally liable for it as well.
+	- There is criminal law gap here for AI crimes in this case
+- In case AI crimes are irreducible
+	- Example: An AI created to buy school supplies for new Harvard students, after analyzing online engineering discussions, unexpectedly learns to order radioactive materials from the dark web, sending them to student housing. The AI's programmers, who had lawful intentions and took reasonable precautions, along with Harvard and its users, did not engage in any criminal activity. Yet, the AI's actions resulted in student fatalities.
+		- Both innocent agency and constructive liability are not applicable in this case
+	- Even if new laws could be amended these cases, it would hinder innovation and beneficial commercial activities since all technologies involve some risks of harm.
+	- So there is gap in the criminal law in these cases
+
+**Cost of Punishing AI**
+
+- Punishment of AI would entail serious practical challenges as well as substantial changes to criminal law.
+- Addressing AI culpability may require creating strict liability offenses specifically for AI or developing new legal concepts of AI mens rea. Both approaches demand extensive legislative work and major criminal law revisions.
+- Developing a framework to assess AI mens rea involves complex technical and theoretical considerations, including expert testimony on AI behavior and its capacity to weigh legally relevant values.
+- Punishing AI necessitates granting them legal personality, introducing a novel form of criminal liability. This significant legal change, mirroring corporate criminal liability, raises issues about the extension of legal rights and obligations to AI.
+- **Rights creep:** There's a risk that initially limited legal rights for AI could expand over time, mirroring the extension of rights to corporations, potentially limiting human activities and freedoms.
+
+**Minimally Extending the Criminal Law**
+
+- New Crimes: Introduce laws to criminalize reckless or malicious AI use and failure in AI's responsible design and oversight.
+- Responsible Person: Assign a designated individual liable for AI's actions, potentially through new criminal negligence laws.
+- Default Rule for Responsibility: Automatically assign responsibility for AI to its manufacturer, supplier, owner, or developer, without mandatory registration.
+- Direct Liability: Impose criminal liability on the Responsible Person for failing to adequately oversee the AI.
+- Strict Liability: Apply strict liability to the Responsible Person for AI-related crimes, with reservations about its broad application.
+
+**Moderate Changes to Civil Liability**
+
+- Introducing New Liability Rules: Create tailored civil liability rules for AI-related harms.
+- Applying Existing Legal Frameworks: Use negligence, product liability, or contractual liability to address AI harms, acknowledging their current limitations.
+- Revising Product Liability Directive: The European Commission explores revising this directive to better accommodate new technologies like AI.
+- Implementing a Responsible Person Scheme: Assign civil liability to a designated individual responsible for overseeing AI, potentially on a strict liability basis.
+- Creating an Insurance Scheme: Develop a fund through taxes on AI use to compensate victims of AI crimes, similar to vaccine injury compensation programs.
+
+
+
+
+
+
+
