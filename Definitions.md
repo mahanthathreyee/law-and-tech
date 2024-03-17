@@ -67,3 +67,14 @@
 	- **Semi-autonomous:** has autonomous capabilities in functions relevant to target selection and engagement—but it cannot both select and engage targets independently.
 		- Most “fire and forget” missiles and unmanned drones in operation today are semi- autonomous, as a human operator must take some affirmative action for a target to be selected or for a selected target to be engaged.
 	- **Autonomous:** an autonomous weapon system is capable of independently selecting and engaging targets based on conclusions derived from gathered information and preprogramed constraints.
+
+# Free Speech is a Triangle
+
+- **Old School Speech Regulation:** Nation-states use threats of fines, penalties, imprisonment, or other forms of punishment or retribution to regulate or control the speech of individuals, associations, and media companies.
+- **New School Speech Regulation:** Nation-states and supranational entities regulate speech by pressuring or co-opting private internet-infrastructure companies to surveil, police, and control speech on their behalf, rather than directly regulating speakers themselves​
+- **Collateral Censorship:** Collateral censorship occurs when the state targets one entity (A) to control the speech of another entity (B), effectively using A to regulate speech on the state’s behalf, often leading to overblocking or overfiltering of content by A to avoid penalties.
+	- Example: Newspaper being liable for what their reporters write and their advertisers advertise.
+- **Digital Prior Restraint:** involves imposing liability on internet-infrastructure providers unless they surveil, block, or remove speech that others complain about, mimicking classic prior restraint by preventing speech without judicial determination and lacking transparency or due process​
+- **Private Governance:** refers to the practice of privately owned internet-infrastructure companies, such as social media platforms, governing online speech and behavior through the enforcement of their own policies, rules, and algorithms, effectively taking on roles traditionally associated with state governance
+- **Privatized Bureaucracy:** phenomenon where private digital infrastructure companies, like social media platforms, perform regulatory functions traditionally associated with the state, including content moderation and speech regulation, in response to legal pressures or government demands
+- 

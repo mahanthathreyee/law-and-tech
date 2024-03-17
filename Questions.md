@@ -358,3 +358,110 @@ It is concerned with the unintended consequences or collateral damage or potenti
 
 
 
+
+
+
+# Free Speech is a Triangle
+
+> What are few speech controversies mentioned in the article?
+
+- EU "right to be forgotten"
+	- Requires search engine companies to eliminate certain newspaper articles from their search results.
+- German law - NetzDG
+	- It requires social media companies to take down many different kinds of speech, including hate speech, within twenty-four hours of a complaint.
+- A third is the concern about fake news propagating through social media sites.
+- Charlottesville march
+	- Decision by various internet companies to block, censor, or otherwise refuse to do business with various neo-Nazi and hate sites.
+ 
+> Who are the members of the "triangle"?
+
+- **Nation-States and Supranational Organizations**: Governments and entities like the European Union.
+- **Internet-Infrastructure Companies**: Includes social media platforms, search engines, ISPs, web-hosting services, DNS registrars, cyber-defense services, and payment systems.
+- **Speakers and Legacy Media**: Individual speakers, journalists, media outlets, civil-society organizations, protesters, hackers, and trolls.
+
+> What is EU's "right to be forgotten"?
+
+Requires search engine companies to eliminate certain newspaper articles from their search results. This is to make it hard for people to discover embarrassing stories in newspapers.
+
+> How are the new school regulations compared to the old school regulations?
+
+- Old school regulation -> directed at speakers/association/media company
+- New school regulation -> directed at internet infrastructure to surveil, police, and control speech of their users on behalf of the government
+
+> What is collateral censorship?
+
+Collateral censorship occurs when the state targets entity A to control the speech of another entity, B. The state tells A: Locate and block or censor B, or else we will punish or fine you. In effect, collateral censorship attempts to harness a private organization to regulate speech on the state’s behalf.
+
+An example is newspaper being liable for what their reporters write and their advertisers advertise. But this scenario doesn't work for internet companies since the company and it's users are not in same relationship as the newspapers and its reporters.
+
+> What is digital prior restraint?
+
+- Liability imposed on infrastructure providers for not surveilling, blocking, or removing complained-about speech resembles prior restraint, but isn't identical to classic cases.
+- Traditional administrative prior restraints prevent speech without a judicial verdict on its protection status or Bill of Rights procedural safeguards.
+- In digital contexts, users are silenced until a private company authorizes their speech, if blocked or taken down.
+- Digital prior restraint differs as some content is preemptively blocked while others are removed post-publication, and it's enforced by private companies under state pressure, not directly by government officials.
+
+> What is public-private cooperation & co-optation?
+
+Governments attempt to coax, cajole, or coerce private-infrastructure owners to do their bidding and to help them surveil and regulate speech.
+
+> Why is public-private cooperation or co-optation is a consequence of new school speech regulation?
+
+1. 1. Infrastructure owners have superior abilities to identify and remove content, making them preferred by governments for enforcing speech regulations.
+2. Modern speech regulation relies on data surveillance to monitor end user activities, necessary for regulating speech.
+3. Both nation-states and private infrastructure owners are motivated to support new-school speech regulation. States find it simpler to regulate companies than countless, possibly anonymous, individual speakers.
+4. Market dynamics and state pressures have led to the evolution of private governance and surveillance capabilities within infrastructure companies.
+
+As a result, a cycle of governance and cooperation between private companies and governments emerges. Companies enhance their regulatory capabilities, prompting states to leverage these abilities for their regulatory aims, further incentivizing the expansion of surveillance and governance tools by private entities.
+
+> What is private governance?
+
+It refers to the practice of privately owned internet-infrastructure companies, such as social media platforms, governing online speech and behavior through the enforcement of their own policies, rules, and algorithms, effectively taking on roles traditionally associated with state governance
+
+> What are two ways internet companies like Facebook generate growth?
+
+- Significantly grow the user base by offering the service globally.
+- Design services to be addictive to capture more of the end users' attention.
+
+For companies like Facebook, growing the membership provides limited growth possibilities, so choose for the second option to make their users to stay and use their app longer.
+
+Simply put, twentieth-century freedom of speech faced a problem of scarcity of access to media. Twenty-first-century freedom of speech faces the problem of scarcity of attention.
+
+> Should private governance be private (according to author)?
+
+According to the author, while private governance is inevitable given the role of digital platforms in public discourse, it should not necessarily remain entirely private or unaccountable. The author suggests that social media companies should recognize and protect free speech and due process values while managing their platforms.
+
+> Why can't First Amendment doctrines can't apply to companies like Facebook?
+
+- **Global Operations**: Facebook's worldwide presence makes U.S. free speech norms inapplicable globally.
+- **Governance Needs**: Strict First Amendment application would limit Facebook's ability to manage harmful content effectively.
+- **Business Model**: Facebook's model of user engagement and targeted advertising requires content curation, which First Amendment restrictions could impede.
+- **Enforcement Limitations**: Facebook's primary enforcement methods (content removal, user bans) could conflict with First Amendment standards if applied directly.
+
+> What is privatized bureaucracy?
+
+It is phenomenon where private digital infrastructure companies, like social media platforms, perform regulatory functions traditionally associated with the state, including content moderation and speech regulation, in response to legal pressures or government demands
+
+> What are the four objections to NetzDG?
+
+- **Substantive Speech Doctrines**: Objection to Germany's hate speech laws as potentially insufficiently protective of free speech.
+- **Global Jurisdiction**: Concerns that Germany might enforce its content regulation beyond its geographical boundaries, applying its speech norms globally.
+- **Lack of Judicial Determination**: Criticism that under NetzDG, there is no judicial review before private companies block or remove speech, depriving speakers of due process.
+- **Surveillance and Manipulation**: Fears that co-opting private infrastructure for speech regulation could also lead to increased digital surveillance and manipulation by the state​.
+
+> What is the best way to protect speech?
+
+The best way to protect free speech values is not to apply doctrines developed for states as rules for private actors. Instead, protecting free speech in a digital age often involves technical, regulatory, and administrative solutions that apply in contexts where the First Amendment does not reach.
+
+> What are the two goals for protecting free speech in a pluralist model?
+
+- Prevent or ameliorate, as much as possible, collateral censorship and new forms of digital prior restraint.
+- Protect people from new methods of digital surveillance and manipulation—new methods that emerged from the rise of large multinational companies that depend on the collection, surveillance, analysis, control, and distribution of personal data.
+
+> What are the responsibilities of the different types of private infrastructure?
+
+- **Basic Internet Services**: Include hosting, telecommunications, domain name, and caching/defense services. They should adopt nondiscriminatory policies regarding content and viewpoint, supporting principles like network neutrality.
+    
+- **Payment Services**: Function as public accommodations and should be open to all, except for illegal activities. Discrimination based on content of lawful online publications should be avoided.
+    
+- **Content Curators (Platforms and Search Engines)**: Regularly make content-based decisions; the specifics of their responsibilities might differ due to their direct role in content curation.
