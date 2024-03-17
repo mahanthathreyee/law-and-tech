@@ -116,3 +116,84 @@ TBD
 **Algorithmic nuisance:** Refers to the negative impact of companies using big data and algorithms to make judgments that affect people's identities, traits, associations, opportunities, and vulnerabilities. It captures the idea of companies externalizing the socially unjustified costs of their decision-making onto individuals. 
 
 To address this phenomenon, it's suggested that there should be regulations aimed at the outputs of algorithmic decision-making, such as discrimination and manipulation, ensuring companies internalize the costs they impose on society and individuals through their practices.
+
+# Big Data's Disparate Impact
+
+> What is disparate treatment?
+
+Unequal treatment of similarly situated people based on a protected class (race, gender, etc.). Disparate treatments comprises of two forms:
+- **Formal Discrimination:** Membership in a protected class is used as an input to the model. It covers both the straightforward denial of opportunities based on protected class membership and the use of rational racism.
+- **Discriminatory Intent:** Requires evidence that the different treatment was **motivated** by the employee's membership in a protected class, such as race, gender, age, disability, religion, or national origin.
+
+> What is disparate impact?
+
+Unintentional discrimination that occurs when a facially neutral policy or practice disadvantages a protected class (e.g., race, gender, age) to a greater extent than another group.
+
+> What is masking & problems of proof?
+
+**Masking:**
+
+- Masking refers to concealing the intention behind discriminatory decisions in algorithmic decision-making.
+- It can involve using data mining to create models that unintentionally or intentionally discriminate, with the process obscuring the discrimination's source.
+- Discrimination can be masked by using proxies for protected characteristics, relying on biased historical data, or selecting features that disadvantage specific groups.
+
+**Problems of Proof:**
+
+- Demonstrating discrimination, especially under legal frameworks like disparate impact or treatment, is challenging due to the opacity and complexity of algorithms.
+- The indirect ways discrimination manifests in data mining exacerbate these challenges, making it difficult to identify and prove the source of bias or discriminatory intent.
+- The article highlights the need for more transparency, accountability, and rigor in algorithmic decision-making to address and prove discrimination effectively.
+
+> Defining the target variable
+
+- Defines what data miners are looking for.
+- The process of defining the target variable is crucial in data mining as it sets the goal or outcome that the algorithm seeks to predict or classify.
+
+**Issues:**
+- The definition of the target variable is inherently subjective and can introduce biases based on how the problem is framed and understood by those setting up the data mining process.
+- Risk of inheriting past biases and discrimination through reliance on historical data.
+- The chosen target variable may fail to fully capture the diversity and variations in real-world outcomes.
+- Neglect of qualitative aspects in favor of easily measured indicators. leading to outcomes that favor easily measured success indicators over a more holistic understanding of the issue.
+
+> Training data (labeling and data collection)?
+
+**Training Data**
+- The dataset used to train the algorithm to make predictions or classifications.
+- Consists of examples that the model learns from to understand patterns or regularities.
+
+**Labelling**
+- The process of assigning class labels to examples in the training data.
+- Crucial for supervised learning, as it guides the algorithm in learning the relationship between input features and the desired output.
+
+**Data Collection**
+- Involves gathering the data that will be used for training the model.
+- Can include a wide range of sources and methods for acquiring data.
+
+**Issues:**
+- Training data may inherit biases from historical decision-making or societal prejudices, leading to biased algorithm outcomes.
+- Errors in labeling can misguide the model, leading to inaccurate predictions or classifications.
+- Training data that do not accurately represent the diversity of the population or scenario can result in models that perform poorly or unfairly for underrepresented groups.
+- Poor data quality, including inaccuracies, incompleteness, or outdated information, can negatively impact model performance and fairness.
+- The method of data collection can introduce bias, for example, through the overrepresentation or underrepresentation of certain groups.
+
+> What is feature selection? What are issues related to it?
+
+**Feature Selection**
+- The process of identifying and selecting a subset of relevant features (variables, predictors) for use in model construction.
+- Aims to improve model performance by including only the most informative, relevant features and excluding redundant or irrelevant data.
+
+**Issues**
+- Choosing features that inadvertently exclude or include data can introduce or perpetuate bias in model outcomes
+- Features selected may serve as proxies for protected characteristics (e.g., zip code as a proxy for race), leading to indirect discrimination.
+- Failure to include features that capture crucial nuances or variations can result in models that do not fully understand or accurately predict outcomes for all groups.
+- Selecting features at too coarse a level of detail can mask important distinctions and nuances, impacting model fairness and accuracy.
+
+ > What are proxies? What are issues related to it?
+ 
+ **Proxies:** Proxies in data mining refer to attributes or features used in models that serve as stand-ins for other variables, including protected characteristics like race, gender, or age.
+
+**Issues:**
+- **Indirect Discrimination:** Using proxies can lead to indirect discrimination where models make decisions based on attributes closely related to protected characteristics.
+- **Unintentional Bias:** Even without explicit intention to discriminate, reliance on proxies can introduce bias into decision-making processes, affecting fairness and equity.
+- **Opacity in Decision-Making:** The use of proxies can obscure the true basis for decisions, making it difficult to identify, understand, and address discriminatory practices.
+- **Challenge in Identifying Proxies:** Determining what constitutes a proxy can be complex, as many variables could potentially serve as indirect indicators of protected characteristics.
+
