@@ -88,7 +88,6 @@
 	- “If an employer does then meet the burden of proving that its tests are ‘job related,’ it remains open to the complaining party to show that other tests or selection devices, without a similarly undesirable racial effect, would also serve the employer’s legitimate interest in ‘efficient and trustworthy workmanship.’”
 	- This burden-shifting scheme was codified in the 1991 Act as the “alternative employment practice” requirement.
 
-
 # Autonomous Weapon Systems
 
 - South Korean SGR-A1

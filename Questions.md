@@ -108,7 +108,14 @@ They must act in the best interests of those whose data they hold, ensuring conf
 
 > How does Professor Balkin want potentially harmful online phenomena, like trolling and doxing, to be addressed, and by whom?
 
-TBD
+It must be addressed by the internet companies but both the government and users have a vital role to play in mitigating these harms.
+
+- It is in the best interest of the internet companies to protect their users from harm.
+    - If users are harmed, they may choose to leave the platform and its reputation might be harmed
+	- These harms can also impact value of the company and could make their shareholders unhappy
+- There must be legislative and administrative regulation and technological design to prevent and protect such harm
+- Government and users will pressure these companies to prevent these harms
+- These companies could place community wide policies to foster positive engagement and discouraging harmful behaviors.
 
 > What is an "algorithmic nuisance" and how should this phenomenon be addressed?
 
@@ -264,7 +271,7 @@ There are 3 ways to address this challenge:
 3. **A Framework for Direct Mens Rea Analysis for AI:** A framework for directly defining mens rea terms for AI—analogous to those possessed by natural persons—could be crafted.
 	- The complexity and variability of AI makes it difficult to establish a consistent standard for what constitutes intent or recklessness within AI systems.
 	- Determining the extent to which AI's actions can be considered independent of human influence is a significant challenge.
-	- 1Implementing a direct mens rea analysis for AI would require new types of evidence and methods of interpretation to assess the "mental state" of AI systems. This necessitates expertise in both technology and law, which might not be readily available in all legal contexts.
+	- Implementing a direct mens rea analysis for AI would require new types of evidence and methods of interpretation to assess the "mental state" of AI systems. This necessitates expertise in both technology and law, which might not be readily available in all legal contexts.
 
 **Reducibility Challenge**
 
@@ -322,14 +329,6 @@ It is concerned with the unintended consequences or collateral damage or potenti
 - Implementing a Responsible Person Scheme: Assign civil liability to a designated individual responsible for overseeing AI, potentially on a strict liability basis.
 - Creating an Insurance Scheme: Develop a fund through taxes on AI use to compensate victims of AI crimes, similar to vaccine injury compensation programs.
 
-
-
-
-
-
-
-
-
 # The Boeing 737 MAX
 
 > What are lead to the failure of Boeing 737 MAX
@@ -361,13 +360,6 @@ It is concerned with the unintended consequences or collateral damage or potenti
 - Increase regulatory oversight over manufacturers, reducing self-certification.
 - Implement clearer accountability and decision-making processes in complex projects.
 - Create a formal ethics program and capable ethical leadership.
-
-
-
-
-
-
-
 
 # Free Speech is a Triangle
 
@@ -476,3 +468,4 @@ Different types of private infrastructure have varying responsibilities in the d
 	- Social media setting community standards, 
 	- Broadband providers ensuring connectivity and network management
 	- Search engines influencing information visibility and public discourse.
+
