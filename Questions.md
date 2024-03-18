@@ -39,12 +39,21 @@ FCC is **AGAINST** net neutrality.
 > 3. child soldiers
 > 4. animal combatants
 
-| **Aspect**             | **Conventional Weapons**                                                                                                          | **Human Combatants**                                                                                                                                         | **Child Soldiers**                                                                                                                | **Animal Combatants**                                                                                                                                 |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Similarity**         | AWS are like conventional weapons in that they can be lawful under specific conditions (e.g., not causing unnecessary suffering). | AWS and human combatants share the capability for independent action on the battlefield.                                                                     | AWS, child soldiers, and animal combatants are capable of autonomous action and may act unpredictably.                            | Similar to child soldiers, AWS and animal combatants can act autonomously and unpredictably.                                                          |
-| **Difference**         | AWS's capacity for independent and unpredictable action complicates their legal review and accountability.                        | Unlike humans, AWS cannot be traditionally trained or held accountable for their actions.                                                                    | The legal and societal motivations for regulating child soldiers (to protect children) do not apply to AWS.                       | The rationale for regulating animal combatants does not directly apply to AWS, and there's almost no existing law specifically for animal combatants. |
-| **Accountability Gap** | N/A                                                                                                                               | AWS actions that result in violations of international humanitarian law highlight an accountability gap not addressed by the law governing human combatants. | Similar accountability issues as with human combatants; existing frameworks do not accommodate autonomous systems' liability.     | Similar to child soldiers, the unique challenges of AWS accountability are not resolved within the current legal frameworks.                          |
-| **Regulation Needs**   | Existing weapons law does not fully address AWS's unique challenges, such as in-field learning and ensuring discriminate use.     | Current combatant law fails to provide guidelines on "training" AWS or addressing the accountability gap for their autonomous actions.                       | Child soldier regulations highlight the need for tailored AWS laws that consider their non-human nature and operational autonomy. | The lack of specific law for animal combatants underscores the necessity for new regulations specifically designed for AWS.                           |
+| **Aspect**                      | **Conventional Weapons**                                                                                                                 | **Human Combatants**                                                                                                               | **Child Soldiers**                                                                                                                     | **Animal Combatants**                                                                                                                   |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Similarity**                  | Autonomous weapon systems are like conventional weapons in that they can be lawful if used in compliance with the law of armed conflict. | Autonomous weapon systems, like human combatants, are capable of independent action and self-determined action.                    | Autonomous weapon systems, child soldiers, and animal combatants share the ability for independent and sometimes unpredictable action. | Like child soldiers and autonomous weapon systems, animal combatants are capable of autonomous action and may act unpredictably.        |
+| **Difference - Lawfulness**     | Conceiving of autonomous weapon systems as mere weapons minimizes their capacity for independent action.                                 | Human combatants' analogy overemphasizes the capacity for self-determination and action in autonomous weapon systems.              | The law of child soldiers does not provide a regulatory framework applicable to autonomous weapon systems.                             | The law of animal combatants is nearly nonexistent, offering no regulatory guidance for autonomous weapon systems.                      |
+| **Difference - Legal Review**   | Requires legal review of design and capabilities, which may not adequately address in-field learning capabilities of autonomous systems. | Training and accountability mechanisms are used to direct behavior, which does not apply to autonomous systems.                    | Child soldiers are banned to protect them, not applicable to machines.                                                                 | Nearly no legal regime exists for animal combatants, offering no precedent for autonomous systems.                                      |
+| **Difference - Accountability** | Weapons are not held accountable; their use by humans is regulated.                                                                      | Combatants can be held accountable for their actions, which is not directly applicable to autonomous systems without modification. | Child soldiers' participation is more about protection than accountability, which does not translate to autonomous weapon systems.     | Animal combatants cannot be held individually liable, similar to autonomous systems, but no legal framework exists for regulation.      |
+| **Regulatory Need**             | New or adapted legal frameworks are needed to address autonomous weapon systems' unique capabilities.                                    | New supplemental law or guidelines are necessary for autonomous weapon systems, especially regarding "training" and oversight.     | Child soldier analogies do not provide a suitable regulatory model for autonomous weapon systems.                                      | The analogy does not provide a suitable regulatory model, highlighting the need for specific regulations for autonomous weapon systems. |
+
+> What are the limits of analogies?
+
+- **Misleading**: Analogies (weapons, soldiers) don't capture the unique features of AWS, like their decision-making ability.
+	- For example, treating AWS merely as weapons overlooks their potential for autonomous decision-making, while comparing them to human combatants overemphasizes their ability to make discerning choices.
+- **Limited Thinking**: These analogies restrict our ability to imagine the full impact of AWS and create proper regulations.
+- **Unfit for Regulation**: Existing analogies can't effectively regulate AWS because they don't consider its autonomy or ethical implications.
+- **Need**: New legal frameworks are needed to address the complexities of AWS, including accountability and ethical use in war.
 
 # Trolley and Pinto Problem
 
@@ -69,6 +78,16 @@ This problem is exemplified by the controversy surrounding the Ford Pinto in the
 - **Global Impact and Scale:**
     - The Boeing 737 MAX incidents had a global impact, grounding the worldwide fleet and affecting international air travel, whereas the Pinto issue primarily affected consumers in the United States.
     - The scale of the 737 MAX crisis involved multiple international investigations and a broader scrutiny of global aviation safety practices, while the Pinto controversy was more contained within the automotive industry and national regulatory responses.
+
+> How can Pinto case insights inform addressing Cyber Physical System issues?
+
+- **Public Discussion**: Encourage open dialogue on the ethical implications and value judgments in cyber-physical systems.
+- **Safety Assessments**: Developers should perform comprehensive safety assessments covering system safety, privacy, and ethics.
+- **Public Safety Cases**: Propose the creation of detailed public safety philosophies for the lifecycle of cyber-physical systems.
+- **Data Sharing**: Highlight the importance of sharing data among developers to improve accuracy in safety and performance assessments.
+- **Standardize Inputs**: Federal agencies should establish key inputs like the value of statistical life to aid developers in making informed decisions.
+- **Value Judgments in Code**: Carefully consider and document the value judgments embedded in system code to address potential litigation challenges.
+- **Risk and Innovation Balance**: Balance the risks of existing systems with the potential benefits and risks of new technologies, focusing on reducing harm and improving safety.
 
 # Free Speech in an Algorithmic Society
 
@@ -122,6 +141,12 @@ It must be addressed by the internet companies but both the government and users
 **Algorithmic nuisance:** Refers to the negative impact of companies using big data and algorithms to make judgments that affect people's identities, traits, associations, opportunities, and vulnerabilities. It captures the idea of companies externalizing the socially unjustified costs of their decision-making onto individuals. 
 
 To address this phenomenon, it's suggested that there should be regulations aimed at the outputs of algorithmic decision-making, such as discrimination and manipulation, ensuring companies internalize the costs they impose on society and individuals through their practices.
+
+> What are the three issues with "Right to be forgotten"
+
+- **Collateral Censorship**: This issue is about intermediaries, like social media platforms, potentially over-censoring content to avoid legal liabilities, which could lead to an excessive suppression of free expression.
+- **Threats to the Global Public Good of the Internet**: This concern highlights how varying local and national regulations could lead to the fragmentation of the internet, undermining its universality and accessibility.
+- **Co-opting Private Governance**: The risk here is that private entities become tools for regulating speech, which raises significant questions about transparency and accountability in how speech is controlled online.
 
 # Big Data's Disparate Impact
 
@@ -210,7 +235,7 @@ Unintentional discrimination that occurs when a facially neutral policy or pract
 - **Business Necessity:** Discriminatory outcomes can be justified if data mining shows they predict job performance. Proving data correlations reflect bias, not job fit, is difficult.
 - **Complex Solutions:** Fixing bias involves technical adjustments and legal challenges in proving discrimination and proposing fair solutions.
 - **Competing Goals:** Balancing antidiscrimination rules (protected characteristics) with addressing societal inequalities creates legal and political hurdles.
-
+E
 # Punishing Artificial Intelligence
 
 > What are features of AI?
@@ -407,7 +432,7 @@ Governments attempt to coax, cajole, or coerce private-infrastructure owners to 
 
 > Why is public-private cooperation or co-optation is a consequence of new school speech regulation?
 
-1. 1. Infrastructure owners have superior abilities to identify and remove content, making them preferred by governments for enforcing speech regulations.
+1. Infrastructure owners have superior abilities to identify and remove content, making them preferred by governments for enforcing speech regulations.
 2. Modern speech regulation relies on data surveillance to monitor end user activities, necessary for regulating speech.
 3. Both nation-states and private infrastructure owners are motivated to support new-school speech regulation. States find it simpler to regulate companies than countless, possibly anonymous, individual speakers.
 4. Market dynamics and state pressures have led to the evolution of private governance and surveillance capabilities within infrastructure companies.
